@@ -1,4 +1,4 @@
-# GreenEyeAI-Automation
+# GreenEyeAI-Corpus
 
 Команда 4 (Автоматизация и корпус)
 
